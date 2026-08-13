@@ -1,0 +1,530 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UWP Community Toolkit",
+          "description": "The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-10-31T15:52:52Z",
+            "owner": "CommunityToolkit",
+            "repo": "WindowsCommunityToolkit",
+            "stars": 6073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyToolkit for .NET",
+          "description": "MyToolkit is a set of .NET libraries containing lots of useful classes for various .NET platforms like UWP/WinRT (Universal Windows Apps), Windows Phone and WPF. The goal is to provide missing or replace existing classes to support the development of high-quality Windows and Windows Phone applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-02-14T14:33:50Z",
+            "owner": "RicoSuter",
+            "repo": "MyToolkit",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cimbalino Toolkit",
+          "description": "Cimbalino Toolkit is a set of useful and powerful tools that will help you build your Windows Platform applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-10-03T11:43:27Z",
+            "owner": "cimbalino",
+            "repo": "Cimbalino-Toolkit",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinUX UWP",
+          "description": "WinUX is a collection of XAML controls, value converters, behaviors, visual state triggers, extensions designed for use in UWP projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2017-06-29T12:55:47Z",
+            "owner": "jamesmcroft",
+            "repo": "WinUX-App-Toolkit",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectrum.Universal",
+          "description": "Spectrum is a library to manipulate colours in the .NET framework, specifically in the RGB, HSL and HSV colour spaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-08-15T01:07:58Z",
+            "owner": "nigel-sampson",
+            "repo": "spectrum",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kulman.UWP",
+          "description": "Kulna.UWP is a collection of value converters, services and extensios for use in UWP projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-05-17T07:31:28Z",
+            "owner": "igorkulman",
+            "repo": "Kulman.UWP",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Generic library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Win2D",
+          "description": "Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-16T20:47:31Z",
+            "owner": "microsoft",
+            "repo": "Win2D",
+            "stars": 1897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WindowsUIDevLabs",
+          "description": "Windows UI Dev Labs the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-06-10T21:17:09Z",
+            "owner": "microsoft",
+            "repo": "WindowsCompositionSamples",
+            "stars": 1130
+          }
+        }
+      ],
+      "title": "Graphics library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ReactiveUI",
+          "description": "An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:35:32Z",
+            "owner": "reactiveui",
+            "repo": "ReactiveUI",
+            "stars": 8529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVVMCross",
+          "description": "Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:47:55Z",
+            "owner": "MvvmCross",
+            "repo": "MvvmCross",
+            "stars": 3922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caliburn.Micro",
+          "description": "A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T15:11:04Z",
+            "owner": "Caliburn-Micro",
+            "repo": "Caliburn.Micro",
+            "stars": 2863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catel",
+          "description": "Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone, WinRT and UWP) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc. The MVVM implementation supports automatic resolving of view models for views and support automatic nested user controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T09:01:08Z",
+            "owner": "Catel",
+            "repo": "Catel",
+            "stars": 906
+          }
+        }
+      ],
+      "title": "MVVM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BaseRestService",
+          "description": "Base class for a REST service implementation simplifying communication with JSON based REST APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-09-29T08:12:04Z",
+            "owner": "igorkulman",
+            "repo": "Kulman.WPA81.BaseRestService",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refit",
+          "description": "Refit: The automatic type-safe REST library for Xamarin and .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-09T14:17:23Z",
+            "owner": "paulcbetts",
+            "repo": "refit",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Networking library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows Template Studio",
+          "description": "Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rich Text Format",
+            "last_commit": "2024-10-09T01:33:35Z",
+            "owner": "microsoft",
+            "repo": "TemplateStudio",
+            "stars": 2809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Template 10",
+          "description": "Template 10 is a set of Visual Studio project templates. They sling-shot developer productivity by getting ~80% of the boilerplate stuff delivered in the template - things like navigation, suspension, and even a Hamburger control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-09T03:46:33Z",
+            "owner": "Windows-XAML",
+            "repo": "Template10",
+            "stars": 1397
+          }
+        }
+      ],
+      "title": "Template"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xaml Controls Gallery",
+          "description": "Demonstrates the controls available in WinUI and the Fluent Design System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T10:28:07Z",
+            "owner": "microsoft",
+            "repo": "WinUI-Gallery",
+            "stars": 3580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official XAML Behaviors",
+          "description": "XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T18:31:12Z",
+            "owner": "microsoft",
+            "repo": "XamlBehaviors",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LottieUWP",
+          "description": "UWP port of Lottie",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-12-07T20:32:30Z",
+            "owner": "azchohfi",
+            "repo": "LottieUWP",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WindowsStateTriggers",
+          "description": "WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-07-22T01:33:28Z",
+            "owner": "dotMorten",
+            "repo": "WindowsStateTriggers",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composition Pro Toolkit",
+          "description": "CompositionProToolkit is a collection of helper classes for Windows.UI.Composition. It also contains controls which can be used in UWP applications. It has dependency on the Win2D and the CompositionExpressionToolkit libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-05-29T22:32:47Z",
+            "owner": "ratishphilip",
+            "repo": "CompositionProToolkit",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UWP Helpers",
+          "description": "A set of custom (e.g. BusyIndicators) and improved (e.g. AdaptiveGridView, NetworkImage) UI controls and specific-function utilities (e.g. IncrementalLoadingCollection) for building UWP apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-06-29T19:44:27Z",
+            "owner": "LanceMcCarthy",
+            "repo": "UwpProjects",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continuity",
+          "description": "A project that aims to provide some cool animations, transitions and controls, built on top of the new Windows Composition API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-03-03T07:37:35Z",
+            "owner": "JustinXinLiu",
+            "repo": "Continuity",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svg for Xaml Library",
+          "description": "Draw images from svg file with Win2D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-08-26T14:41:50Z",
+            "owner": "mntone",
+            "repo": "SvgForXaml",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adaptive Trigger Library",
+          "description": "Adaptive Trigger Library is another powerful collection of state triggers. It brings many interesting triggers such as latitude and longitude triggers, altitute trigger, power supply trigger, orientation trigger and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-06-17T16:27:41Z",
+            "owner": "Herdo",
+            "repo": "AdaptiveTriggerLibrary",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comet",
+          "description": "Comet is an open source library for .NET/XAML Universal Windows Apps that attempts to fill the gaps and provide a collection of APIs and controls based on the feedback and work from the developer community.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2016-08-18T02:30:10Z",
+            "owner": "nmetulev",
+            "repo": "comet",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UWP Styles Library",
+          "description": "Just a collection of some cool styles that you can just add on to your next UWP project!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-06T13:26:46Z",
+            "owner": "Raamakrishnan",
+            "repo": "UWP-Styles-Library",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composition Surface Factory",
+          "description": "CompositionSurfaceFactory (formerly known as CompositionImageLoader) is a surface factory intended for use with the Windows.UI.Composition api based on Win2D and written in C++/CX. Don't worry, image loading still comes out of the box!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-06-08T22:33:29Z",
+            "owner": "robmikh",
+            "repo": "compositionsurfacefactory",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composition Expression Toolkit",
+          "description": "CompositionExpressionToolkit is a collection of Extension methods and Helper classes which make it easier to use Windows.UI.Composition features. They include methods for creating statically typed CompositionAnimation expressions, CompositionPropertySet extension methods, helper methods for creating ScopedBatchSets etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-09-22T16:59:50Z",
+            "owner": "ratishphilip",
+            "repo": "CompositionExpressionToolkit",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monolith",
+          "description": "Monolith is a Windows library that lets you create animations in codebehind in a fluent, somewhat straightforward manner. It's a wrapper around the Windows.UI.Xaml.Media.Animation library that removes as much of the setup as possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-09-24T08:45:15Z",
+            "owner": "ThatLousyGuy",
+            "repo": "Monolith",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "UI Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwipeListView",
+          "description": "This repository contains a list with items swiping feature, like the one in new Outlook Mail app for Windows 10.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-04-20T14:29:29Z",
+            "owner": "FrayxRulez",
+            "repo": "SwipeListView",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PullToRefreshXaml",
+          "description": "Pull to refresh with the new Windows Composition API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-02-22T12:26:08Z",
+            "owner": "JustinXinLiu",
+            "repo": "PullToRefreshUWP_WindowsComposition",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UWPChipsX",
+          "description": "UWP Chips Control repository with its nuget package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-09-16T18:23:03Z",
+            "owner": "yazdipour",
+            "repo": "UWPChipsX",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExpanderUWP",
+          "description": "Expander Control for Microsoft UWP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-12-22T11:25:29Z",
+            "owner": "deanchalk",
+            "repo": "ExpanderUWP",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "XAML Control"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:09.893Z",
+    "original_repository": "tomzorz/awesome-uwp",
+    "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
+    "enhanced_repository": "enhansome/enhansome-uwp",
+    "enhanced_repository_description": null,
+    "title": "awesome-uwp with stars"
+  }
+}
