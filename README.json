@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T22:09:12Z",
+            "last_commit": "2026-08-16T06:24:02Z",
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8531
+            "stars": 8532
           }
         },
         {
@@ -149,7 +149,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T13:03:29Z",
+            "last_commit": "2026-08-16T03:20:44Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3922
@@ -268,7 +268,7 @@
             "last_commit": "2026-08-14T07:46:34Z",
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3584
+            "stars": 3585
           }
         },
         {
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:27:55.625Z",
+    "last_updated": "2026-08-16T14:28:34.752Z",
     "original_repository": "tomzorz/awesome-uwp",
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
     "enhanced_repository": "enhansome/enhansome-uwp",
