@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T10:36:56Z",
+            "last_commit": "2026-08-18T07:53:55Z",
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8533
+            "stars": 8534
           }
         },
         {
@@ -149,10 +149,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T07:17:22Z",
+            "last_commit": "2026-08-18T07:07:20Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3921
+            "stars": 3922
           }
         },
         {
@@ -177,7 +177,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T10:22:38Z",
+            "last_commit": "2026-08-18T10:22:29Z",
             "owner": "Catel",
             "repo": "Catel",
             "stars": 906
@@ -248,7 +248,7 @@
             "last_commit": "2024-05-09T03:46:33Z",
             "owner": "Windows-XAML",
             "repo": "Template10",
-            "stars": 1397
+            "stars": 1396
           }
         }
       ],
@@ -268,7 +268,7 @@
             "last_commit": "2026-08-17T09:15:43Z",
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3586
+            "stars": 3587
           }
         },
         {
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:33:24.492Z",
+    "last_updated": "2026-08-18T14:38:57.511Z",
     "original_repository": "tomzorz/awesome-uwp",
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
     "enhanced_repository": "enhansome/enhansome-uwp",
