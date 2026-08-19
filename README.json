@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61403402,
             "language": "C#",
             "last_commit": "2024-10-31T15:52:52Z",
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6072
+            "stars": 6073
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36530733,
             "language": "C#",
             "last_commit": "2018-02-14T14:33:50Z",
             "owner": "RicoSuter",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18610902,
             "language": "C#",
             "last_commit": "2019-10-03T11:43:27Z",
             "owner": "cimbalino",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77834317,
             "language": "C#",
             "last_commit": "2017-06-29T12:55:47Z",
             "owner": "jamesmcroft",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25227197,
             "language": "C#",
             "last_commit": "2016-08-15T01:07:58Z",
             "owner": "nigel-sampson",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47492603,
             "language": "C#",
             "last_commit": "2016-05-17T07:31:28Z",
             "owner": "igorkulman",
@@ -91,7 +97,7 @@
       "title": "Generic library"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21972471,
             "language": "C++",
             "last_commit": "2026-03-16T20:47:31Z",
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1897
+            "stars": 1898
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35130094,
             "language": "C#",
             "last_commit": "2024-06-10T21:17:09Z",
             "owner": "microsoft",
@@ -125,7 +133,7 @@
       "title": "Graphics library"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -134,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 715082,
             "language": "C#",
             "last_commit": "2026-08-18T07:53:55Z",
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8534
+            "stars": 8535
           }
         },
         {
@@ -148,11 +157,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-18T07:07:20Z",
+            "last_commit": "2026-08-19T06:43:10Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3922
+            "stars": 3923
           }
         },
         {
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16412440,
             "language": "C#",
             "last_commit": "2026-07-17T15:11:04Z",
             "owner": "Caliburn-Micro",
@@ -176,8 +187,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9501756,
             "language": "C#",
-            "last_commit": "2026-08-18T10:22:29Z",
+            "last_commit": "2026-08-19T08:53:17Z",
             "owner": "Catel",
             "repo": "Catel",
             "stars": 906
@@ -187,7 +199,7 @@
       "title": "MVVM"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27032017,
             "language": "C#",
             "last_commit": "2016-09-29T08:12:04Z",
             "owner": "igorkulman",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035035710,
             "language": null,
             "last_commit": "2025-08-09T14:17:23Z",
             "owner": "paulcbetts",
@@ -221,7 +235,7 @@
       "title": "Networking library"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -230,11 +244,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77063606,
             "language": "Rich Text Format",
             "last_commit": "2024-10-09T01:33:35Z",
             "owner": "microsoft",
             "repo": "TemplateStudio",
-            "stars": 2811
+            "stars": 2813
           }
         },
         {
@@ -244,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33678290,
             "language": "C#",
             "last_commit": "2024-05-09T03:46:33Z",
             "owner": "Windows-XAML",
@@ -255,7 +271,7 @@
       "title": "Template"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -264,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155757874,
             "language": "C#",
             "last_commit": "2026-08-17T09:15:43Z",
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3587
+            "stars": 3588
           }
         },
         {
@@ -278,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39399877,
             "language": "C#",
             "last_commit": "2026-07-31T18:31:12Z",
             "owner": "microsoft",
@@ -292,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93670572,
             "language": "C#",
             "last_commit": "2022-12-07T20:32:30Z",
             "owner": "azchohfi",
@@ -306,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32815727,
             "language": "C#",
             "last_commit": "2020-07-22T01:33:28Z",
             "owner": "dotMorten",
@@ -320,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60048964,
             "language": "C#",
             "last_commit": "2020-05-29T22:32:47Z",
             "owner": "ratishphilip",
@@ -334,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50304885,
             "language": "C#",
             "last_commit": "2021-06-29T19:44:27Z",
             "owner": "LanceMcCarthy",
@@ -348,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51669346,
             "language": "C#",
             "last_commit": "2019-03-03T07:37:35Z",
             "owner": "JustinXinLiu",
@@ -362,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47877360,
             "language": "C#",
             "last_commit": "2020-08-26T14:41:50Z",
             "owner": "mntone",
@@ -376,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39915182,
             "language": "C#",
             "last_commit": "2019-06-17T16:27:41Z",
             "owner": "Herdo",
@@ -390,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46539074,
             "language": "C#",
             "last_commit": "2016-08-18T02:30:10Z",
             "owner": "nmetulev",
@@ -404,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83224826,
             "language": null,
             "last_commit": "2020-06-06T13:26:46Z",
             "owner": "Raamakrishnan",
@@ -418,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52558753,
             "language": "C++",
             "last_commit": "2021-06-08T22:33:29Z",
             "owner": "robmikh",
@@ -432,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56388746,
             "language": "C#",
             "last_commit": "2016-09-22T16:59:50Z",
             "owner": "ratishphilip",
@@ -446,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42290575,
             "language": "C#",
             "last_commit": "2015-09-24T08:45:15Z",
             "owner": "ThatLousyGuy",
@@ -457,7 +487,7 @@
       "title": "UI Library"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -466,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36040608,
             "language": "C#",
             "last_commit": "2017-04-20T14:29:29Z",
             "owner": "FrayxRulez",
@@ -480,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47967680,
             "language": "C#",
             "last_commit": "2017-02-22T12:26:08Z",
             "owner": "JustinXinLiu",
@@ -494,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148827760,
             "language": "C#",
             "last_commit": "2018-09-16T18:23:03Z",
             "owner": "yazdipour",
@@ -508,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161823357,
             "language": "C#",
             "last_commit": "2018-12-22T11:25:29Z",
             "owner": "deanchalk",
@@ -520,8 +554,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:38:57.511Z",
+    "last_updated": "2026-08-19T12:56:36.667Z",
     "original_repository": "tomzorz/awesome-uwp",
+    "original_repository_id": 51310129,
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
     "enhanced_repository": "enhansome/enhansome-uwp",
     "enhanced_repository_description": null,
