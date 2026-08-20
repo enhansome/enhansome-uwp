@@ -162,7 +162,7 @@
             "last_commit": "2026-08-19T06:43:10Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3923
+            "stars": 3922
           }
         },
         {
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 9501756,
             "language": "C#",
-            "last_commit": "2026-08-19T08:53:17Z",
+            "last_commit": "2026-08-20T11:36:42Z",
             "owner": "Catel",
             "repo": "Catel",
             "stars": 906
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:39:19.497Z",
+    "last_updated": "2026-08-20T14:41:24.708Z",
     "original_repository": "tomzorz/awesome-uwp",
     "original_repository_id": 51310129,
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
