@@ -144,10 +144,10 @@
             "archived": false,
             "id": 715082,
             "language": "C#",
-            "last_commit": "2026-08-18T07:53:55Z",
+            "last_commit": "2026-08-20T19:00:49Z",
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8535
+            "stars": 8534
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 9501756,
             "language": "C#",
-            "last_commit": "2026-08-20T11:36:42Z",
+            "last_commit": "2026-08-21T14:08:11Z",
             "owner": "Catel",
             "repo": "Catel",
-            "stars": 906
+            "stars": 905
           }
         }
       ],
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-17T09:15:43Z",
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3588
+            "stars": 3590
           }
         },
         {
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:41:24.708Z",
+    "last_updated": "2026-08-21T14:40:32.654Z",
     "original_repository": "tomzorz/awesome-uwp",
     "original_repository_id": 51310129,
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
