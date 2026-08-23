@@ -162,7 +162,7 @@
             "last_commit": "2026-08-19T06:43:10Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3922
+            "stars": 3923
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-17T09:15:43Z",
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3590
+            "stars": 3593
           }
         },
         {
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:26:46.884Z",
+    "last_updated": "2026-08-23T14:28:26.678Z",
     "original_repository": "tomzorz/awesome-uwp",
     "original_repository_id": 51310129,
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
