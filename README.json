@@ -5,6 +5,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "PRISM",
+          "description": "Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31335300,
+            "language": "C#",
+            "last_commit": "2026-08-06T01:21:10Z",
+            "owner": "PrismLibrary",
+            "repo": "Prism",
+            "stars": 6835
+          }
+        }
+      ],
+      "title": "Application framework"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows-10-MIDI-Library",
+          "description": "Library for C# and other apps to use Windows 10 Anniversary Edition native MIDI (USB, bluetooth, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65437887,
+            "language": "C++",
+            "last_commit": "2019-07-21T02:47:23Z",
+            "owner": "Psychlist1972",
+            "repo": "Windows-10-MIDI-Library",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Audio library"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Akavache",
+          "description": "Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2896461,
+            "language": "C#",
+            "last_commit": "2026-08-20T08:02:36Z",
+            "owner": "reactiveui",
+            "repo": "Akavache",
+            "stars": 2553
+          }
+        }
+      ],
+      "title": "Data library"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "UWP Community Toolkit",
           "description": "The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.",
           "children": [],
@@ -147,7 +210,7 @@
             "last_commit": "2026-08-20T19:00:49Z",
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8533
+            "stars": 8534
           }
         },
         {
@@ -159,7 +222,7 @@
             "archived": false,
             "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-19T06:43:10Z",
+            "last_commit": "2026-08-24T13:26:01Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3923
@@ -285,7 +348,7 @@
             "last_commit": "2026-08-17T09:15:43Z",
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3593
+            "stars": 3594
           }
         },
         {
@@ -554,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:28:26.678Z",
+    "last_updated": "2026-08-24T14:28:14.715Z",
     "original_repository": "tomzorz/awesome-uwp",
     "original_repository_id": 51310129,
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
