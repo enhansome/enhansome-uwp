@@ -54,7 +54,7 @@
             "archived": false,
             "id": 2896461,
             "language": "C#",
-            "last_commit": "2026-08-20T08:02:36Z",
+            "last_commit": "2026-08-25T12:59:21Z",
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2553
@@ -78,7 +78,7 @@
             "last_commit": "2024-10-31T15:52:52Z",
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6073
+            "stars": 6072
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 9501756,
             "language": "C#",
-            "last_commit": "2026-08-21T14:08:11Z",
+            "last_commit": "2026-08-25T10:26:30Z",
             "owner": "Catel",
             "repo": "Catel",
             "stars": 905
@@ -327,7 +327,7 @@
             "last_commit": "2024-05-09T03:46:33Z",
             "owner": "Windows-XAML",
             "repo": "Template10",
-            "stars": 1396
+            "stars": 1397
           }
         }
       ],
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:53.768Z",
+    "last_updated": "2026-08-25T14:52:06.107Z",
     "original_repository": "tomzorz/awesome-uwp",
     "original_repository_id": 51310129,
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
