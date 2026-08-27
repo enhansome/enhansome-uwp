@@ -15,7 +15,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6835
+            "stars": 6838
           }
         }
       ],
@@ -54,7 +54,7 @@
             "archived": false,
             "id": 2896461,
             "language": "C#",
-            "last_commit": "2026-08-25T12:59:21Z",
+            "last_commit": "2026-08-26T15:36:37Z",
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2553
@@ -174,7 +174,7 @@
             "last_commit": "2026-03-16T20:47:31Z",
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1898
+            "stars": 1899
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 715082,
             "language": "C#",
-            "last_commit": "2026-08-25T01:32:12Z",
+            "last_commit": "2026-08-26T18:54:38Z",
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8536
+            "stars": 8538
           }
         },
         {
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-24T13:26:01Z",
+            "last_commit": "2026-08-27T04:49:43Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3921
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 9501756,
             "language": "C#",
-            "last_commit": "2026-08-25T15:15:32Z",
+            "last_commit": "2026-08-27T10:25:31Z",
             "owner": "Catel",
             "repo": "Catel",
             "stars": 905
@@ -617,9 +617,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:49:47.715Z",
-    "original_repository": "tomzorz/awesome-uwp",
-    "original_repository_id": 51310129,
+    "last_updated": "2026-08-27T12:07:50.208Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 51310129,
+      "language": null,
+      "last_commit": "2022-01-27T12:04:51Z",
+      "owner": "tomzorz",
+      "repo": "awesome-uwp",
+      "stars": 288
+    },
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
     "enhanced_repository": "enhansome/enhansome-uwp",
     "enhanced_repository_description": null,
