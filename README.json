@@ -15,7 +15,7 @@
             "last_commit": "2026-08-06T01:21:10Z",
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6838
+            "stars": 6839
           }
         }
       ],
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-27T04:49:43Z",
+            "last_commit": "2026-08-27T13:30:45Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3921
@@ -345,7 +345,7 @@
             "archived": false,
             "id": 155757874,
             "language": "C#",
-            "last_commit": "2026-08-17T09:15:43Z",
+            "last_commit": "2026-08-27T13:59:43Z",
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
             "stars": 3597
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:50.208Z",
+    "last_updated": "2026-08-27T23:41:00.754Z",
     "original_repository_info": {
       "archived": false,
       "id": 51310129,
