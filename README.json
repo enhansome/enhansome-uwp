@@ -16,7 +16,8 @@
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6839
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "Application framework"
@@ -37,7 +38,8 @@
             "owner": "Psychlist1972",
             "repo": "Windows-10-MIDI-Library",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "Audio library"
@@ -58,7 +60,8 @@
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2553
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "Data library"
@@ -79,7 +82,8 @@
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
             "stars": 6072
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -94,7 +98,8 @@
             "owner": "RicoSuter",
             "repo": "MyToolkit",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -109,7 +114,8 @@
             "owner": "cimbalino",
             "repo": "Cimbalino-Toolkit",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "jamesmcroft",
             "repo": "WinUX-App-Toolkit",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -139,7 +146,8 @@
             "owner": "nigel-sampson",
             "repo": "spectrum",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "igorkulman",
             "repo": "Kulman.UWP",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "Generic library"
@@ -175,7 +184,8 @@
             "owner": "microsoft",
             "repo": "Win2D",
             "stars": 1899
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -190,7 +200,8 @@
             "owner": "microsoft",
             "repo": "WindowsCompositionSamples",
             "stars": 1127
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "Graphics library"
@@ -211,7 +222,8 @@
             "owner": "reactiveui",
             "repo": "ReactiveUI",
             "stars": 8538
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -222,11 +234,12 @@
             "archived": false,
             "id": 2870911,
             "language": "C#",
-            "last_commit": "2026-08-27T13:30:45Z",
+            "last_commit": "2026-08-28T11:36:34Z",
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3921
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -237,11 +250,12 @@
             "archived": false,
             "id": 16412440,
             "language": "C#",
-            "last_commit": "2026-07-17T15:11:04Z",
+            "last_commit": "2026-08-28T12:35:44Z",
             "owner": "Caliburn-Micro",
             "repo": "Caliburn.Micro",
-            "stars": 2863
-          }
+            "stars": 2862
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -256,7 +270,8 @@
             "owner": "Catel",
             "repo": "Catel",
             "stars": 905
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "MVVM"
@@ -277,7 +292,8 @@
             "owner": "igorkulman",
             "repo": "Kulman.WPA81.BaseRestService",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -292,7 +308,8 @@
             "owner": "paulcbetts",
             "repo": "refit",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "Networking library"
@@ -313,7 +330,8 @@
             "owner": "microsoft",
             "repo": "TemplateStudio",
             "stars": 2813
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -328,7 +346,8 @@
             "owner": "Windows-XAML",
             "repo": "Template10",
             "stars": 1397
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "Template"
@@ -349,7 +368,8 @@
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
             "stars": 3597
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -364,7 +384,8 @@
             "owner": "microsoft",
             "repo": "XamlBehaviors",
             "stars": 788
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -379,7 +400,8 @@
             "owner": "azchohfi",
             "repo": "LottieUWP",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -394,7 +416,8 @@
             "owner": "dotMorten",
             "repo": "WindowsStateTriggers",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -409,7 +432,8 @@
             "owner": "ratishphilip",
             "repo": "CompositionProToolkit",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -424,7 +448,8 @@
             "owner": "LanceMcCarthy",
             "repo": "UwpProjects",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -439,7 +464,8 @@
             "owner": "JustinXinLiu",
             "repo": "Continuity",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -454,7 +480,8 @@
             "owner": "mntone",
             "repo": "SvgForXaml",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -469,7 +496,8 @@
             "owner": "Herdo",
             "repo": "AdaptiveTriggerLibrary",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -484,7 +512,8 @@
             "owner": "nmetulev",
             "repo": "comet",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -499,7 +528,8 @@
             "owner": "Raamakrishnan",
             "repo": "UWP-Styles-Library",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -514,7 +544,8 @@
             "owner": "robmikh",
             "repo": "compositionsurfacefactory",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -529,7 +560,8 @@
             "owner": "ratishphilip",
             "repo": "CompositionExpressionToolkit",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -544,7 +576,8 @@
             "owner": "ThatLousyGuy",
             "repo": "Monolith",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "UI Library"
@@ -565,7 +598,8 @@
             "owner": "FrayxRulez",
             "repo": "SwipeListView",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -580,7 +614,8 @@
             "owner": "JustinXinLiu",
             "repo": "PullToRefreshUWP_WindowsComposition",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -595,7 +630,8 @@
             "owner": "yazdipour",
             "repo": "UWPChipsX",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         },
         {
           "node_type": "item",
@@ -610,14 +646,15 @@
             "owner": "deanchalk",
             "repo": "ExpanderUWP",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:29:22.378Z"
         }
       ],
       "title": "XAML Control"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:41:00.754Z",
+    "last_updated": "2026-08-28T23:29:22.378Z",
     "original_repository_info": {
       "archived": false,
       "id": 51310129,
