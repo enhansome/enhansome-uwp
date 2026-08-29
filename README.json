@@ -78,8 +78,8 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-26T15:36:37Z",
-            "open_issues": 7,
+            "last_commit": "2026-08-29T17:01:10Z",
+            "open_issues": 8,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2553,
@@ -261,7 +261,7 @@
             "open_issues": 204,
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1899,
+            "stars": 1900,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -315,8 +315,8 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-26T18:54:38Z",
-            "open_issues": 6,
+            "last_commit": "2026-08-29T11:03:49Z",
+            "open_issues": 5,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
             "stars": 8538,
@@ -432,8 +432,8 @@
             "id": 9501756,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T10:25:31Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-29T09:10:57Z",
+            "open_issues": 1,
             "owner": "Catel",
             "repo": "Catel",
             "stars": 905,
@@ -588,7 +588,7 @@
             "open_issues": 38,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3597,
+            "stars": 3604,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:46:32.632Z",
+    "last_updated": "2026-08-29T17:37:22.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
