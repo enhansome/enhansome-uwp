@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..",
+            "homepage": null,
             "id": 31335300,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-06T01:21:10Z",
+            "open_issues": 27,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6839
+            "stars": 6839,
+            "topics": [
+              "c-sharp",
+              "hacktoberfest",
+              "mvvm",
+              "prism",
+              "visual-studio",
+              "wpf",
+              "xamarin-forms",
+              "xamarin-studio"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -32,12 +46,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for C# and other apps to use Windows 10 Anniversary Update native MIDI (USB, bluetooth, etc.)",
+            "homepage": null,
             "id": 65437887,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-07-21T02:47:23Z",
+            "open_issues": 4,
             "owner": "Psychlist1972",
             "repo": "Windows-10-MIDI-Library",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -54,12 +73,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires.",
+            "homepage": "https://evolve.xamarin.com/session/56e2044afd00c0253cae33a3",
             "id": 2896461,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:36:37Z",
+            "open_issues": 7,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2553
+            "stars": 2553,
+            "topics": [
+              "akavache",
+              "c-sharp",
+              "cache",
+              "cross-platform",
+              "dotnet",
+              "reactive-extensions",
+              "reactive-programming",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -76,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ARCHIVE - New Repo: https://aka.ms/toolkit/windows",
+            "homepage": "https://aka.ms/toolkit/windows",
             "id": 61403402,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-31T15:52:52Z",
+            "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6072
+            "stars": 6072,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -92,12 +130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MyToolkit for .NET",
+            "homepage": "http://mytoolkit.io",
             "id": 36530733,
             "language": "C#",
+            "license": "MS-PL",
             "last_commit": "2018-02-14T14:33:50Z",
+            "open_issues": 52,
             "owner": "RicoSuter",
             "repo": "MyToolkit",
-            "stars": 334
+            "stars": 334,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -108,12 +151,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":coffee: Cimbalino Toolkit",
+            "homepage": "https://cimbalino.org",
             "id": 18610902,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-10-03T11:43:27Z",
+            "open_issues": 5,
             "owner": "cimbalino",
             "repo": "Cimbalino-Toolkit",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "c-sharp",
+              "cimbalino-toolkit",
+              "uwp",
+              "windows-10",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -124,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "WinUX App Toolkit is an essential toolkit to get developers started with application development for UWP, Android and iOS (Xamarin) with controls, converters, behaviors, state triggers and extensions commonly used in app development.",
+            "homepage": "http://www.jamescroft.co.uk",
             "id": 77834317,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-06-29T12:55:47Z",
+            "open_issues": 8,
             "owner": "jamesmcroft",
             "repo": "WinUX-App-Toolkit",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -140,12 +199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Colour spaces in .NET",
+            "homepage": null,
             "id": 25227197,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2016-08-15T01:07:58Z",
+            "open_issues": 0,
             "owner": "nigel-sampson",
             "repo": "spectrum",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -156,12 +220,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of utilities and services for UWP apps",
+            "homepage": null,
             "id": 47492603,
             "language": "C#",
+            "license": null,
             "last_commit": "2016-05-17T07:31:28Z",
+            "open_issues": 0,
             "owner": "igorkulman",
             "repo": "Kulman.UWP",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "csharp",
+              "csharp-library",
+              "utility",
+              "uwp"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -178,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration. It is available to C#, C++ and VB developers writing apps for the Windows Universal Platform (UWP). It utilizes the power of Direct2D, and integrates seamlessly with XAML and CoreWindow.",
+            "homepage": "http://microsoft.github.io/Win2D",
             "id": 21972471,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-16T20:47:31Z",
+            "open_issues": 204,
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1899
+            "stars": 1899,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -194,12 +273,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Windows Composition Samples have moved here: https://github.com/microsoft/WindowsAppSDK-Samples/tree/main/Samples/SceneGraph",
+            "homepage": "https://github.com/microsoft/WindowsAppSDK-Samples/tree/main/Samples/SceneGraph",
             "id": 35130094,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-06-10T21:17:09Z",
+            "open_issues": 1,
             "owner": "microsoft",
             "repo": "WindowsCompositionSamples",
-            "stars": 1127
+            "stars": 1127,
+            "topics": [
+              "animations",
+              "composition",
+              "csharp",
+              "effects",
+              "fluent",
+              "uwp",
+              "uwp-apps",
+              "windows-10",
+              "windowsui"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -216,12 +310,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.",
+            "homepage": "https://www.reactiveui.net",
             "id": 715082,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:54:38Z",
+            "open_issues": 6,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8538
+            "stars": 8538,
+            "topics": [
+              "android",
+              "csharp",
+              "dotnet",
+              "first-timers",
+              "framework",
+              "functional-reactive-programming",
+              "hacktoberfest",
+              "ios",
+              "mvvm",
+              "reactive-extensions",
+              "reactive-programming",
+              "reactiveui",
+              "reactivex",
+              "tizen",
+              "uwp",
+              "winforms",
+              "wpf",
+              "xamarin",
+              "xamarin-forms"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -232,12 +351,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The .NET MVVM framework for cross-platform solutions, including Android, iOS, MacCatalyst, macOS, tvOS, WPF, WinUI",
+            "homepage": "http://mvvmcross.com",
             "id": 2870911,
             "language": "C#",
+            "license": "MS-PL",
             "last_commit": "2026-08-28T11:36:34Z",
+            "open_issues": 185,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3921
+            "stars": 3921,
+            "topics": [
+              "android",
+              "c-sharp",
+              "dotnet",
+              "hacktoberfest",
+              "ios",
+              "ios-framework",
+              "macos",
+              "monodroid",
+              "monotouch",
+              "mvvm",
+              "mvvmcross",
+              "net-7",
+              "net-8",
+              "nuget",
+              "tvos",
+              "tvos-framework",
+              "winui3",
+              "wpf",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -248,12 +392,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.",
+            "homepage": "http://caliburnmicro.com/",
             "id": 16412440,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:35:44Z",
+            "open_issues": 107,
             "owner": "Caliburn-Micro",
             "repo": "Caliburn.Micro",
-            "stars": 2862
+            "stars": 2862,
+            "topics": [
+              "avalonia-ui",
+              "c-sharp",
+              "dotnet-maui",
+              "hacktoberfest",
+              "mvvm",
+              "uwp",
+              "vb-net",
+              "windows-10",
+              "windows-desktop",
+              "winui3",
+              "winui3-in-desktop",
+              "wpf",
+              "xamarin-forms"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -264,12 +427,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An application development platform",
+            "homepage": "https://www.catelproject.com",
             "id": 9501756,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T10:25:31Z",
+            "open_issues": 2,
             "owner": "Catel",
             "repo": "Catel",
-            "stars": 905
+            "stars": 905,
+            "topics": [
+              "c-sharp",
+              "catel",
+              "mvvm",
+              "mvvm-architecture",
+              "mvvm-framework",
+              "windows",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -286,12 +462,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Base class for a Windows Phone 8.1 XAML, Windows 8.1 and Windows 10 Universal REST service implementation",
+            "homepage": null,
             "id": 27032017,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2016-09-29T08:12:04Z",
+            "open_issues": 0,
             "owner": "igorkulman",
             "repo": "Kulman.WPA81.BaseRestService",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "api",
+              "c-sharp",
+              "json",
+              "rest",
+              "uwp"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -302,12 +489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Taken Over By Shad0w For Responsible Disclosure No Malicous Content Should Serve Here",
+            "homepage": null,
             "id": 1035035710,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-09T14:17:23Z",
+            "open_issues": 0,
             "owner": "paulcbetts",
             "repo": "refit",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -324,12 +516,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience.",
+            "homepage": null,
             "id": 77063606,
             "language": "Rich Text Format",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-09T01:33:35Z",
+            "open_issues": 196,
             "owner": "microsoft",
             "repo": "TemplateStudio",
-            "stars": 2813
+            "stars": 2813,
+            "topics": [
+              "csharp",
+              "template",
+              "template-engine",
+              "uwp",
+              "uwp-apps",
+              "visual-studio",
+              "windows-10",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -340,12 +546,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making Windows 10 apps great again",
+            "homepage": null,
             "id": 33678290,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-09T03:46:33Z",
+            "open_issues": 24,
             "owner": "Windows-XAML",
             "repo": "Template10",
-            "stars": 1397
+            "stars": 1397,
+            "topics": [
+              "c-sharp",
+              "uwp",
+              "visualstudio",
+              "winrt",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -362,12 +579,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This app demonstrates the controls available in WinUI and the Fluent Design System.",
+            "homepage": "https://aka.ms/winui",
             "id": 155757874,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:59:43Z",
+            "open_issues": 38,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3597
+            "stars": 3597,
+            "topics": [
+              "fluent",
+              "fluent-design",
+              "uwp",
+              "windows",
+              "windowsappsdk",
+              "winrt",
+              "winui",
+              "winui-controls",
+              "winui3",
+              "xaml",
+              "xaml-layout",
+              "xaml-style",
+              "xaml-theme",
+              "xaml-winrt"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -378,12 +615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official home for WinUI/UWP XAML Behaviors on GitHub.",
+            "homepage": null,
             "id": 39399877,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-31T18:31:12Z",
+            "open_issues": 64,
             "owner": "microsoft",
             "repo": "XamlBehaviors",
-            "stars": 788
+            "stars": 788,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -394,12 +636,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "UWP port of Lottie(https://github.com/airbnb/lottie-android)",
+            "homepage": null,
             "id": 93670572,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-07T20:32:30Z",
+            "open_issues": 14,
             "owner": "azchohfi",
             "repo": "LottieUWP",
-            "stars": 272
+            "stars": 272,
+            "topics": [
+              "2d",
+              "adobe",
+              "after-effects",
+              "animation",
+              "animations",
+              "lottie",
+              "uwp",
+              "windows",
+              "windows-10",
+              "windows10"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -410,12 +668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of custom visual state triggers",
+            "homepage": null,
             "id": 32815727,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-07-22T01:33:28Z",
+            "open_issues": 18,
             "owner": "dotMorten",
             "repo": "WindowsStateTriggers",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -426,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Helper classes and controls (using Win2d) for Windows.UI.Composition",
+            "homepage": null,
             "id": 60048964,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-05-29T22:32:47Z",
+            "open_issues": 2,
             "owner": "ratishphilip",
             "repo": "CompositionProToolkit",
-            "stars": 246
+            "stars": 246,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -442,12 +710,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of UWP controls and utilities",
+            "homepage": null,
             "id": 50304885,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-06-29T19:44:27Z",
+            "open_issues": 0,
             "owner": "LanceMcCarthy",
             "repo": "UwpProjects",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -458,12 +733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A project that aims to provide some cool animations, transitions and controls, built on top of the new Windows Composition API.",
+            "homepage": null,
             "id": 51669346,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-03-03T07:37:35Z",
+            "open_issues": 0,
             "owner": "JustinXinLiu",
             "repo": "Continuity",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -474,12 +754,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Draw SVG image with Win2D",
+            "homepage": null,
             "id": 47877360,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-08-26T14:41:50Z",
+            "open_issues": 10,
             "owner": "mntone",
             "repo": "SvgForXaml",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "direct2d",
+              "draw-images",
+              "svg",
+              "uwp",
+              "win2d",
+              "winrt",
+              "winrt-uwp",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -490,12 +784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for adaptive triggers for Windows universal apps (Universal Windows Platform).",
+            "homepage": null,
             "id": 39915182,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-06-17T16:27:41Z",
+            "open_issues": 5,
             "owner": "Herdo",
             "repo": "AdaptiveTriggerLibrary",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -506,12 +805,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Universal Windows Platform (UWP) toolkit library. Contains controls for creating great user experiences for Universal Windows Applications",
+            "homepage": null,
             "id": 46539074,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2016-08-18T02:30:10Z",
+            "open_issues": 4,
             "owner": "nmetulev",
             "repo": "comet",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -522,12 +826,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just a collection of some cool styles that you can just add on to your next UWP project!",
+            "homepage": null,
             "id": 83224826,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2020-06-06T13:26:46Z",
+            "open_issues": 0,
             "owner": "Raamakrishnan",
             "repo": "UWP-Styles-Library",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "style",
+              "uwp",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -538,12 +851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An image loader to use with the Windows.UI.Composition API based on Win2D and written with C++/WinRT.",
+            "homepage": null,
             "id": 52558753,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-06-08T22:33:29Z",
+            "open_issues": 3,
             "owner": "robmikh",
             "repo": "compositionsurfacefactory",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -554,12 +872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for setting the Expression in CompositionAnimation via Lambda Expressions",
+            "homepage": null,
             "id": 56388746,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2016-09-22T16:59:50Z",
+            "open_issues": 1,
             "owner": "ratishphilip",
             "repo": "CompositionExpressionToolkit",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -570,12 +893,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 42290575,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2015-09-24T08:45:15Z",
+            "open_issues": 0,
             "owner": "ThatLousyGuy",
             "repo": "Monolith",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -592,12 +920,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ListView with swipe handling like the one in new Outlook Mail app for Windows 10.",
+            "homepage": null,
             "id": 36040608,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-04-20T14:29:29Z",
+            "open_issues": 7,
             "owner": "FrayxRulez",
             "repo": "SwipeListView",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -608,12 +941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pull to refresh with the new Windows Composition API.",
+            "homepage": null,
             "id": 47967680,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-02-22T12:26:08Z",
+            "open_issues": 0,
             "owner": "JustinXinLiu",
             "repo": "PullToRefreshUWP_WindowsComposition",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -624,12 +962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chips Control for UWP",
+            "homepage": "https://www.nuget.org/packages/UWPChipsX",
             "id": 148827760,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2018-09-16T18:23:03Z",
+            "open_issues": 0,
             "owner": "yazdipour",
             "repo": "UWPChipsX",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         },
@@ -640,12 +983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 161823357,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2018-12-22T11:25:29Z",
+            "open_issues": 0,
             "owner": "deanchalk",
             "repo": "ExpanderUWP",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
         }
@@ -654,15 +1002,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:29:22.378Z",
+    "last_updated": "2026-08-29T04:46:32.632Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome UWP libs",
+      "homepage": null,
       "id": 51310129,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-01-27T12:04:51Z",
+      "open_issues": 2,
       "owner": "tomzorz",
       "repo": "awesome-uwp",
-      "stars": 288
+      "stars": 288,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "contributions",
+        "list",
+        "uwp",
+        "uwp-applications",
+        "windows-phone",
+        "windows-universal"
+      ]
     },
     "original_repository_sha": "026de7a921f1f4b4f17ddb79600e6f0fcb671bc6",
     "enhanced_repository": "enhansome/enhansome-uwp",
