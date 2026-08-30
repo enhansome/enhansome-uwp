@@ -19,7 +19,7 @@
             "open_issues": 27,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6839,
+            "stars": 6840,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6072,
+            "stars": 6073,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -261,7 +261,7 @@
             "open_issues": 204,
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1900,
+            "stars": 1899,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:37:22.758Z",
+    "last_updated": "2026-08-30T17:59:43.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",

@@ -1,6 +1,6 @@
 # awesome-uwp with stars
 
-Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,580 | 🐛 144 | 📅 2026-03-26.
+Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,581 | 🐛 144 | 📅 2026-03-26.
 
 Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources. Before submitting a PR please check [our guidelines](https://github.com/tomzorz/awesome-uwp/blob/master/CONTRIBUTING.md) ⭐ 288 | 🐛 2 | 📅 2022-01-27.
 
@@ -19,7 +19,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Application framework
 
-* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,839 | 🐛 27 | 🌐 C# | 📅 2026-08-06 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
+* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,840 | 🐛 27 | 🌐 C# | 📅 2026-08-06 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
 ## Audio library
 
@@ -40,7 +40,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Graphics library
 
-* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,900 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
+* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,899 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
 * [WindowsUIDevLabs](https://github.com/Microsoft/WindowsUIDevLabs) ⚠️ Archived - Windows UI Dev Labs the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
 
 ## IoT Library
@@ -96,8 +96,8 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,636 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,637 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
