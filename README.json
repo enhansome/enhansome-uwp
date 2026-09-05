@@ -525,7 +525,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TemplateStudio",
-            "stars": 2812,
+            "stars": 2813,
             "topics": [
               "csharp",
               "template",
@@ -584,11 +584,11 @@
             "id": 155757874,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-04T15:29:41Z",
+            "last_commit": "2026-09-05T11:42:35Z",
             "open_issues": 40,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3628,
+            "stars": 3630,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:30:24.516Z",
+    "last_updated": "2026-09-05T16:41:32.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",

@@ -1,6 +1,6 @@
 # awesome-uwp with stars
 
-Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,584 | 🐛 147 | 📅 2026-03-26.
+Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,583 | 🐛 147 | 📅 2026-03-26.
 
 Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources. Before submitting a PR please check [our guidelines](https://github.com/tomzorz/awesome-uwp/blob/master/CONTRIBUTING.md) ⭐ 288 | 🐛 2 | 📅 2022-01-27.
 
@@ -63,12 +63,12 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Template
 
-* [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio) ⭐ 2,812 | 🐛 196 | 🌐 Rich Text Format | 📅 2024-10-09 - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
+* [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio) ⭐ 2,813 | 🐛 196 | 🌐 Rich Text Format | 📅 2024-10-09 - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
 * [Template 10](https://github.com/Windows-XAML/Template10) ⭐ 1,397 | 🐛 24 | 🌐 C# | 📅 2024-05-09 - Template 10 is a set of Visual Studio project templates. They sling-shot developer productivity by getting \~80% of the boilerplate stuff delivered in the template - things like navigation, suspension, and even a Hamburger control.
 
 ## UI Library
 
-* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,628 | 🐛 40 | 🌐 C# | 📅 2026-09-04 Demonstrates the controls available in WinUI and the Fluent Design System.
+* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,630 | 🐛 40 | 🌐 C# | 📅 2026-09-05 Demonstrates the controls available in WinUI and the Fluent Design System.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) ⭐ 788 | 🐛 64 | 🌐 C# | 📅 2026-09-01 - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [LottieUWP](https://github.com/azchohfi/LottieUWP) ⚠️ Archived - UWP port of Lottie
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) ⭐ 247 | 🐛 18 | 🌐 C# | 📅 2020-07-22 - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
@@ -96,8 +96,8 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,652 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,653 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
