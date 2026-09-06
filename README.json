@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-08-06T01:21:10Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6840,
+            "stars": 6842,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -78,8 +78,8 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T17:01:10Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-05T21:21:01Z",
+            "open_issues": 9,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2552,
@@ -315,8 +315,8 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-04T10:56:26Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-05T22:19:31Z",
+            "open_issues": 2,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
             "stars": 8536,
@@ -360,7 +360,7 @@
             "open_issues": 184,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3923,
+            "stars": 3922,
             "topics": [
               "android",
               "c-sharp",
@@ -525,7 +525,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TemplateStudio",
-            "stars": 2813,
+            "stars": 2812,
             "topics": [
               "csharp",
               "template",
@@ -588,7 +588,7 @@
             "open_issues": 40,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3630,
+            "stars": 3632,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:41:32.992Z",
+    "last_updated": "2026-09-06T16:47:56.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
