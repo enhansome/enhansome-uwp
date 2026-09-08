@@ -15,8 +15,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-06T01:21:10Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-07T19:30:30Z",
+            "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6841,
@@ -78,7 +78,7 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-05T21:21:01Z",
+            "last_commit": "2026-09-08T04:10:51Z",
             "open_issues": 9,
             "owner": "reactiveui",
             "repo": "Akavache",
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6070,
+            "stars": 6071,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -261,7 +261,7 @@
             "open_issues": 204,
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1900,
+            "stars": 1901,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -316,7 +316,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-05T22:19:31Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
             "stars": 8536,
@@ -525,7 +525,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TemplateStudio",
-            "stars": 2812,
+            "stars": 2813,
             "topics": [
               "csharp",
               "template",
@@ -588,7 +588,7 @@
             "open_issues": 40,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3632,
+            "stars": 3633,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:39:43.146Z",
+    "last_updated": "2026-09-08T17:50:53.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
