@@ -15,8 +15,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T19:30:30Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-09T16:11:08Z",
+            "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6841,
@@ -78,8 +78,8 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-08T04:10:51Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-08T22:51:32Z",
+            "open_issues": 10,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2552,
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6071,
+            "stars": 6072,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -315,11 +315,11 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-05T22:19:31Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-08T21:13:35Z",
+            "open_issues": 5,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8536,
+            "stars": 8537,
             "topics": [
               "android",
               "csharp",
@@ -432,8 +432,8 @@
             "id": 9501756,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T11:28:18Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-09T10:24:36Z",
+            "open_issues": 4,
             "owner": "Catel",
             "repo": "Catel",
             "stars": 906,
@@ -525,7 +525,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TemplateStudio",
-            "stars": 2813,
+            "stars": 2814,
             "topics": [
               "csharp",
               "template",
@@ -620,11 +620,11 @@
             "id": 39399877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:10:34Z",
+            "last_commit": "2026-09-09T14:25:11Z",
             "open_issues": 64,
             "owner": "microsoft",
             "repo": "XamlBehaviors",
-            "stars": 788,
+            "stars": 787,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:50:53.283Z",
+    "last_updated": "2026-09-09T17:44:17.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
