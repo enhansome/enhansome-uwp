@@ -15,7 +15,7 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T16:11:08Z",
+            "last_commit": "2026-09-11T15:14:02Z",
             "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
@@ -261,7 +261,7 @@
             "open_issues": 204,
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1902,
+            "stars": 1901,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -360,7 +360,7 @@
             "open_issues": 184,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3922,
+            "stars": 3921,
             "topics": [
               "android",
               "c-sharp",
@@ -401,7 +401,7 @@
             "open_issues": 107,
             "owner": "Caliburn-Micro",
             "repo": "Caliburn.Micro",
-            "stars": 2862,
+            "stars": 2863,
             "topics": [
               "avalonia-ui",
               "c-sharp",
@@ -432,11 +432,11 @@
             "id": 9501756,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T06:48:38Z",
+            "last_commit": "2026-09-11T13:34:44Z",
             "open_issues": 3,
             "owner": "Catel",
             "repo": "Catel",
-            "stars": 906,
+            "stars": 905,
             "topics": [
               "c-sharp",
               "catel",
@@ -584,11 +584,11 @@
             "id": 155757874,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-05T11:42:35Z",
+            "last_commit": "2026-09-11T17:00:12Z",
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3635,
+            "stars": 3636,
             "topics": [
               "fluent",
               "fluent-design",
@@ -620,11 +620,11 @@
             "id": 39399877,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:25:11Z",
+            "last_commit": "2026-09-10T23:46:55Z",
             "open_issues": 64,
             "owner": "microsoft",
             "repo": "XamlBehaviors",
-            "stars": 787,
+            "stars": 788,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:36:20.108Z",
+    "last_updated": "2026-09-11T17:40:23.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
