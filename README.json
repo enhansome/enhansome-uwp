@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6840,
+            "stars": 6839,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -356,8 +356,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-09-12T03:12:04Z",
-            "open_issues": 186,
+            "last_commit": "2026-09-13T03:12:39Z",
+            "open_issues": 187,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3921,
@@ -584,11 +584,11 @@
             "id": 155757874,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-11T22:04:04Z",
+            "last_commit": "2026-09-13T14:48:38Z",
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3639,
+            "stars": 3640,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:52:49.567Z",
+    "last_updated": "2026-09-13T17:21:37.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
