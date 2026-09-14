@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6839,
+            "stars": 6842,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -78,7 +78,7 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-12T12:21:51Z",
+            "last_commit": "2026-09-14T13:03:50Z",
             "open_issues": 12,
             "owner": "reactiveui",
             "repo": "Akavache",
@@ -261,7 +261,7 @@
             "open_issues": 204,
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1901,
+            "stars": 1900,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -315,7 +315,7 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-12T12:21:53Z",
+            "last_commit": "2026-09-14T13:04:46Z",
             "open_issues": 11,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
@@ -356,7 +356,7 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-09-13T03:12:39Z",
+            "last_commit": "2026-09-14T06:33:54Z",
             "open_issues": 187,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
@@ -401,7 +401,7 @@
             "open_issues": 107,
             "owner": "Caliburn-Micro",
             "repo": "Caliburn.Micro",
-            "stars": 2863,
+            "stars": 2865,
             "topics": [
               "avalonia-ui",
               "c-sharp",
@@ -432,7 +432,7 @@
             "id": 9501756,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T13:34:44Z",
+            "last_commit": "2026-09-14T14:14:48Z",
             "open_issues": 3,
             "owner": "Catel",
             "repo": "Catel",
@@ -584,8 +584,8 @@
             "id": 155757874,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-13T14:48:38Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-14T14:51:44Z",
+            "open_issues": 42,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
             "stars": 3640,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:21:37.171Z",
+    "last_updated": "2026-09-14T19:09:32.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
