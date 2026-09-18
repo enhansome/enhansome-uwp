@@ -1,6 +1,6 @@
 # awesome-uwp with stars
 
-Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,611 | 🐛 156 | 📅 2026-03-26.
+Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,615 | 🐛 157 | 📅 2026-03-26.
 
 Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources. Before submitting a PR please check [our guidelines](https://github.com/tomzorz/awesome-uwp/blob/master/CONTRIBUTING.md) ⭐ 288 | 🐛 2 | 📅 2022-01-27.
 
@@ -19,7 +19,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Application framework
 
-* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,844 | 🐛 25 | 🌐 C# | 📅 2026-09-11 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
+* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,845 | 🐛 25 | 🌐 C# | 📅 2026-09-11 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
 ## Audio library
 
@@ -27,7 +27,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Data library
 
-* [Akavache](https://github.com/akavache/Akavache) ⭐ 2,552 | 🐛 13 | 🌐 C# | 📅 2026-09-16 - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
+* [Akavache](https://github.com/akavache/Akavache) ⭐ 2,552 | 🐛 13 | 🌐 C# | 📅 2026-09-17 - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
 
 ## Generic library
 
@@ -40,7 +40,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Graphics library
 
-* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,900 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
+* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,901 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
 * [WindowsUIDevLabs](https://github.com/Microsoft/WindowsUIDevLabs) ⚠️ Archived - Windows UI Dev Labs the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
 
 ## IoT Library
@@ -63,12 +63,12 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Template
 
-* [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio) ⭐ 2,814 | 🐛 196 | 🌐 Rich Text Format | 📅 2024-10-09 - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
+* [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio) ⭐ 2,813 | 🐛 196 | 🌐 Rich Text Format | 📅 2024-10-09 - Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
 * [Template 10](https://github.com/Windows-XAML/Template10) ⭐ 1,398 | 🐛 24 | 🌐 C# | 📅 2024-05-09 - Template 10 is a set of Visual Studio project templates. They sling-shot developer productivity by getting \~80% of the boilerplate stuff delivered in the template - things like navigation, suspension, and even a Hamburger control.
 
 ## UI Library
 
-* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,646 | 🐛 42 | 🌐 C# | 📅 2026-09-17 Demonstrates the controls available in WinUI and the Fluent Design System.
+* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,648 | 🐛 42 | 🌐 C# | 📅 2026-09-17 Demonstrates the controls available in WinUI and the Fluent Design System.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) ⭐ 788 | 🐛 64 | 🌐 C# | 📅 2026-09-10 - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [LottieUWP](https://github.com/azchohfi/LottieUWP) ⚠️ Archived - UWP port of Lottie
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) ⭐ 247 | 🐛 18 | 🌐 C# | 📅 2020-07-22 - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
@@ -96,8 +96,8 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,678 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,681 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
