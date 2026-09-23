@@ -16,7 +16,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T15:14:02Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6851,
@@ -78,11 +78,11 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T04:36:07Z",
+            "last_commit": "2026-09-23T04:34:52Z",
             "open_issues": 13,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2552,
+            "stars": 2550,
             "topics": [
               "akavache",
               "c-sharp",
@@ -315,11 +315,11 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-21T02:09:40Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-23T16:57:01Z",
+            "open_issues": 15,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8541,
+            "stars": 8540,
             "topics": [
               "android",
               "csharp",
@@ -360,7 +360,7 @@
             "open_issues": 191,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3920,
+            "stars": 3919,
             "topics": [
               "android",
               "c-sharp",
@@ -436,7 +436,7 @@
             "open_issues": 3,
             "owner": "Catel",
             "repo": "Catel",
-            "stars": 905,
+            "stars": 904,
             "topics": [
               "c-sharp",
               "catel",
@@ -584,11 +584,11 @@
             "id": 155757874,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T11:45:01Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-23T10:27:21Z",
+            "open_issues": 43,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3651,
+            "stars": 3654,
             "topics": [
               "fluent",
               "fluent-design",
@@ -645,7 +645,7 @@
             "open_issues": 14,
             "owner": "azchohfi",
             "repo": "LottieUWP",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "2d",
               "adobe",
@@ -719,7 +719,7 @@
             "open_issues": 0,
             "owner": "LanceMcCarthy",
             "repo": "UwpProjects",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "hacktoberfest"
             ]
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:00:23.259Z",
+    "last_updated": "2026-09-23T18:20:06.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
@@ -1014,7 +1014,7 @@
       "open_issues": 2,
       "owner": "tomzorz",
       "repo": "awesome-uwp",
-      "stars": 288,
+      "stars": 287,
       "topics": [
         "awesome",
         "awesome-list",
