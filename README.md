@@ -1,6 +1,6 @@
 # awesome-uwp with stars
 
-Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,628 | 🐛 162 | 📅 2026-03-26.
+Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,629 | 🐛 161 | 📅 2026-03-26.
 
 Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources. Before submitting a PR please check [our guidelines](https://github.com/tomzorz/awesome-uwp/blob/master/CONTRIBUTING.md) ⭐ 287 | 🐛 2 | 📅 2022-01-27.
 
@@ -19,7 +19,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Application framework
 
-* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,851 | 🐛 26 | 🌐 C# | 📅 2026-09-26 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
+* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,852 | 🐛 27 | 🌐 C# | 📅 2026-09-26 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
 ## Audio library
 
@@ -40,7 +40,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Graphics library
 
-* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,900 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
+* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,901 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
 * [WindowsUIDevLabs](https://github.com/Microsoft/WindowsUIDevLabs) ⚠️ Archived - Windows UI Dev Labs the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
 
 ## IoT Library
@@ -49,7 +49,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## MVVM
 
-* [ReactiveUI](https://github.com/reactiveui/reactiveui/) ⭐ 8,540 | 🐛 3 | 🌐 C# | 📅 2026-09-26 - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
+* [ReactiveUI](https://github.com/reactiveui/reactiveui/) ⭐ 8,539 | 🐛 1 | 🌐 C# | 📅 2026-09-27 - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
 * [MVVMCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,919 | 🐛 191 | 🌐 C# | 📅 2026-09-19 - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) ⭐ 2,866 | 🐛 107 | 🌐 C# | 📅 2026-08-28 - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV\* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
 * [Catel](https://github.com/Catel/Catel) ⭐ 904 | 🐛 5 | 🌐 C# | 📅 2026-09-25 Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone, WinRT and UWP) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc. The MVVM implementation supports automatic resolving of view models for views and support automatic nested user controls.
@@ -96,8 +96,8 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,688 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,691 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
