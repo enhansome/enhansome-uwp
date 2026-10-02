@@ -15,8 +15,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T14:31:16Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-02T18:37:34Z",
+            "open_issues": 25,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6853,
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6070,
+            "stars": 6069,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -319,7 +319,7 @@
             "open_issues": 2,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8539,
+            "stars": 8540,
             "topics": [
               "android",
               "csharp",
@@ -436,7 +436,7 @@
             "open_issues": 4,
             "owner": "Catel",
             "repo": "Catel",
-            "stars": 904,
+            "stars": 905,
             "topics": [
               "c-sharp",
               "catel",
@@ -521,7 +521,7 @@
             "id": 77063606,
             "language": "Rich Text Format",
             "license": "NOASSERTION",
-            "last_commit": "2024-10-09T01:33:35Z",
+            "last_commit": "2026-10-02T14:17:01Z",
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TemplateStudio",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:21:52.560Z",
+    "last_updated": "2026-10-02T19:05:12.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
