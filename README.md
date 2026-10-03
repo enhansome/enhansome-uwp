@@ -1,8 +1,8 @@
 # awesome-uwp with stars
 
-Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,638 | 🐛 163 | 📅 2026-03-26.
+Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,639 | 🐛 163 | 📅 2026-03-26.
 
-Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources. Before submitting a PR please check [our guidelines](https://github.com/tomzorz/awesome-uwp/blob/master/CONTRIBUTING.md) ⭐ 287 | 🐛 2 | 📅 2022-01-27.
+Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources. Before submitting a PR please check [our guidelines](https://github.com/tomzorz/awesome-uwp/blob/master/CONTRIBUTING.md).
 
 * [Awesome UWP](#awesome-uwp)
   * [Application framework](#application-framework)
@@ -49,7 +49,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## MVVM
 
-* [ReactiveUI](https://github.com/reactiveui/reactiveui/) ⭐ 8,540 | 🐛 2 | 🌐 C# | 📅 2026-10-01 - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
+* [ReactiveUI](https://github.com/reactiveui/reactiveui/) ⭐ 8,540 | 🐛 3 | 🌐 C# | 📅 2026-10-03 - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
 * [MVVMCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,919 | 🐛 191 | 🌐 C# | 📅 2026-09-19 - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) ⭐ 2,866 | 🐛 106 | 🌐 C# | 📅 2026-09-28 - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV\* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
 * [Catel](https://github.com/Catel/Catel) ⭐ 905 | 🐛 4 | 🌐 C# | 📅 2026-09-30 Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone, WinRT and UWP) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc. The MVVM implementation supports automatic resolving of view models for views and support automatic nested user controls.
@@ -68,14 +68,14 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## UI Library
 
-* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,663 | 🐛 41 | 🌐 C# | 📅 2026-09-30 Demonstrates the controls available in WinUI and the Fluent Design System.
+* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,662 | 🐛 41 | 🌐 C# | 📅 2026-09-30 Demonstrates the controls available in WinUI and the Fluent Design System.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) ⭐ 790 | 🐛 64 | 🌐 C# | 📅 2026-09-10 - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [LottieUWP](https://github.com/azchohfi/LottieUWP) ⚠️ Archived - UWP port of Lottie
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) ⭐ 247 | 🐛 18 | 🌐 C# | 📅 2020-07-22 - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
 * [Composition Pro Toolkit](https://github.com/ratishphilip/CompositionProToolkit) ⭐ 246 | 🐛 2 | 🌐 C# | 📅 2020-05-29 - CompositionProToolkit is a collection of helper classes for Windows.UI.Composition. It also contains controls which can be used in UWP applications. It has dependency on the Win2D and the CompositionExpressionToolkit libraries.
 * [UWP Helpers](https://github.com/LanceMcCarthy/UwpProjects) ⭐ 145 | 🐛 0 | 🌐 C# | 📅 2021-06-29 - A set of custom (e.g. BusyIndicators) and improved (e.g. AdaptiveGridView, NetworkImage) UI controls and specific-function utilities (e.g. IncrementalLoadingCollection) for building UWP apps.
 * [Continuity](https://github.com/JustinXinLiu/Continuity) ⭐ 104 | 🐛 0 | 🌐 C# | 📅 2019-03-03 - A project that aims to provide some cool animations, transitions and controls, built on top of the new Windows Composition API.
-* [Svg for Xaml Library](https://github.com/mntone/svgforxaml) ⭐ 94 | 🐛 10 | 🌐 C# | 📅 2020-08-26 - Draw images from svg file with Win2D.
+* [Svg for Xaml Library](https://github.com/mntone/svgforxaml) ⭐ 93 | 🐛 10 | 🌐 C# | 📅 2020-08-26 - Draw images from svg file with Win2D.
 * [Adaptive Trigger Library](https://github.com/Herdo/AdaptiveTriggerLibrary) ⭐ 62 | 🐛 5 | 🌐 C# | 📅 2019-06-17 - Adaptive Trigger Library is another powerful collection of state triggers. It brings many interesting triggers such as latitude and longitude triggers, altitute trigger, power supply trigger, orientation trigger and more.
 * [Comet](https://github.com/nmetulev/comet) ⚠️ Archived - Comet is an open source library for .NET/XAML Universal Windows Apps that attempts to fill the gaps and provide a collection of APIs and controls based on the feedback and work from the developer community.
 * [UWP Styles Library](https://github.com/Raamakrishnan/UWP-Styles-Library) ⭐ 57 | 🐛 0 | 📅 2020-06-06 Just a collection of some cool styles that you can just add on to your next UWP project!
@@ -100,4 +100,4 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness](https://
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
