@@ -15,8 +15,8 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T18:02:15Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-05T16:46:53Z",
+            "open_issues": 15,
             "owner": "PrismLibrary",
             "repo": "Prism",
             "stars": 6852,
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6068,
+            "stars": 6067,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -319,7 +319,7 @@
             "open_issues": 1,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8540,
+            "stars": 8538,
             "topics": [
               "android",
               "csharp",
@@ -432,11 +432,11 @@
             "id": 9501756,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T10:24:53Z",
+            "last_commit": "2026-10-05T10:25:35Z",
             "open_issues": 4,
             "owner": "Catel",
             "repo": "Catel",
-            "stars": 905,
+            "stars": 906,
             "topics": [
               "c-sharp",
               "catel",
@@ -584,8 +584,8 @@
             "id": 155757874,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-04T15:25:38Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-05T09:34:45Z",
+            "open_issues": 40,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
             "stars": 3664,
@@ -698,7 +698,7 @@
             "open_issues": 2,
             "owner": "ratishphilip",
             "repo": "CompositionProToolkit",
-            "stars": 246,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:03:35.962Z",
+    "last_updated": "2026-10-05T21:28:31.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
