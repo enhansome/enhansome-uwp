@@ -15,11 +15,11 @@
             "id": 31335300,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T04:32:46Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-06T13:11:57Z",
+            "open_issues": 14,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6853,
+            "stars": 6854,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6068,
+            "stars": 6065,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -584,8 +584,8 @@
             "id": 155757874,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-05T09:34:45Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-06T15:26:29Z",
+            "open_issues": 43,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
             "stars": 3665,
@@ -624,7 +624,7 @@
             "open_issues": 64,
             "owner": "microsoft",
             "repo": "XamlBehaviors",
-            "stars": 791,
+            "stars": 792,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:55:13.194Z",
+    "last_updated": "2026-10-06T19:22:23.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
@@ -1014,7 +1014,7 @@
       "open_issues": 2,
       "owner": "tomzorz",
       "repo": "awesome-uwp",
-      "stars": 287,
+      "stars": 286,
       "topics": [
         "awesome",
         "awesome-list",

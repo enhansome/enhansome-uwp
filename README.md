@@ -1,6 +1,6 @@
 # awesome-uwp with stars
 
-Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,643 | 🐛 169 | 📅 2026-03-26.
+Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,642 | 🐛 169 | 📅 2026-03-26.
 
 Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources. Before submitting a PR please check [our guidelines](https://github.com/tomzorz/awesome-uwp/blob/master/CONTRIBUTING.md).
 
@@ -19,7 +19,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Application framework
 
-* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,853 | 🐛 17 | 🌐 C# | 📅 2026-10-06 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
+* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,854 | 🐛 14 | 🌐 C# | 📅 2026-10-06 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
 ## Audio library
 
@@ -68,8 +68,8 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## UI Library
 
-* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,665 | 🐛 40 | 🌐 C# | 📅 2026-10-05 Demonstrates the controls available in WinUI and the Fluent Design System.
-* [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) ⭐ 791 | 🐛 64 | 🌐 C# | 📅 2026-09-10 - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
+* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,665 | 🐛 43 | 🌐 C# | 📅 2026-10-06 Demonstrates the controls available in WinUI and the Fluent Design System.
+* [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) ⭐ 792 | 🐛 64 | 🌐 C# | 📅 2026-09-10 - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [LottieUWP](https://github.com/azchohfi/LottieUWP) ⚠️ Archived - UWP port of Lottie
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) ⭐ 247 | 🐛 18 | 🌐 C# | 📅 2020-07-22 - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
 * [Composition Pro Toolkit](https://github.com/ratishphilip/CompositionProToolkit) ⭐ 245 | 🐛 2 | 🌐 C# | 📅 2020-05-29 - CompositionProToolkit is a collection of helper classes for Windows.UI.Composition. It also contains controls which can be used in UWP applications. It has dependency on the Win2D and the CompositionExpressionToolkit libraries.
@@ -92,7 +92,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Web Library
 
-* [React-UWP](https://github.com/myxvisual/react-uwp) ⭐ 1,170 | 🐛 63 | 🌐 TypeScript | 📅 2026-04-18 - A set React components that match Microsoft's UWP Design & Fluent Design.
+* [React-UWP](https://github.com/myxvisual/react-uwp) ⭐ 1,169 | 🐛 63 | 🌐 TypeScript | 📅 2026-04-18 - A set React components that match Microsoft's UWP Design & Fluent Design.
 
 # Other Awesome Lists
 
