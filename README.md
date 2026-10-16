@@ -1,6 +1,6 @@
 # awesome-uwp with stars
 
-Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,654 | 🐛 190 | 📅 2026-03-26.
+Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,657 | 🐛 195 | 📅 2026-03-26.
 
 Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources. Before submitting a PR please check [our guidelines](https://github.com/tomzorz/awesome-uwp/blob/master/CONTRIBUTING.md).
 
@@ -19,7 +19,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Application framework
 
-* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,855 | 🐛 11 | 🌐 C# | 📅 2026-10-14 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
+* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,854 | 🐛 10 | 🌐 C# | 📅 2026-10-16 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
 ## Audio library
 
@@ -27,7 +27,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Data library
 
-* [Akavache](https://github.com/akavache/Akavache) ⭐ 2,549 | 🐛 9 | 🌐 C# | 📅 2026-10-13 - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
+* [Akavache](https://github.com/akavache/Akavache) ⭐ 2,549 | 🐛 10 | 🌐 C# | 📅 2026-10-16 - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
 
 ## Generic library
 
@@ -40,7 +40,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Graphics library
 
-* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,902 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
+* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,903 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
 * [WindowsUIDevLabs](https://github.com/Microsoft/WindowsUIDevLabs) ⚠️ Archived - Windows UI Dev Labs the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
 
 ## IoT Library
@@ -49,10 +49,10 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## MVVM
 
-* [ReactiveUI](https://github.com/reactiveui/reactiveui/) ⭐ 8,548 | 🐛 5 | 🌐 C# | 📅 2026-10-13 - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
-* [MVVMCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,920 | 🐛 190 | 🌐 C# | 📅 2026-10-15 - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
-* [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) ⭐ 2,865 | 🐛 110 | 🌐 C# | 📅 2026-10-15 - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV\* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
-* [Catel](https://github.com/Catel/Catel) ⭐ 906 | 🐛 3 | 🌐 C# | 📅 2026-10-15 Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone, WinRT and UWP) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc. The MVVM implementation supports automatic resolving of view models for views and support automatic nested user controls.
+* [ReactiveUI](https://github.com/reactiveui/reactiveui/) ⭐ 8,547 | 🐛 6 | 🌐 C# | 📅 2026-10-16 - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
+* [MVVMCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,919 | 🐛 192 | 🌐 C# | 📅 2026-10-16 - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
+* [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) ⭐ 2,865 | 🐛 110 | 🌐 C# | 📅 2026-10-16 - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV\* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
+* [Catel](https://github.com/Catel/Catel) ⭐ 907 | 🐛 4 | 🌐 C# | 📅 2026-10-16 Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone, WinRT and UWP) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc. The MVVM implementation supports automatic resolving of view models for views and support automatic nested user controls.
 * [MVVM Light Toolkit](https://mvvmlight.codeplex.com/) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
 * [Okra App Framework](http://okraframework.github.io) - An app centric MVVM framework for Windows 8.1 built with dependency injection in mind, including a full set of Visual Studio MVVM templates.
 
@@ -68,8 +68,8 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## UI Library
 
-* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,687 | 🐛 39 | 🌐 C# | 📅 2026-10-14 Demonstrates the controls available in WinUI and the Fluent Design System.
-* [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) ⭐ 792 | 🐛 64 | 🌐 C# | 📅 2026-09-10 - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
+* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,693 | 🐛 39 | 🌐 C# | 📅 2026-10-14 Demonstrates the controls available in WinUI and the Fluent Design System.
+* [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) ⭐ 792 | 🐛 64 | 🌐 C# | 📅 2026-10-16 - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [LottieUWP](https://github.com/azchohfi/LottieUWP) ⚠️ Archived - UWP port of Lottie
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) ⭐ 247 | 🐛 18 | 🌐 C# | 📅 2020-07-22 - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
 * [Composition Pro Toolkit](https://github.com/ratishphilip/CompositionProToolkit) ⭐ 245 | 🐛 2 | 🌐 C# | 📅 2020-05-29 - CompositionProToolkit is a collection of helper classes for Windows.UI.Composition. It also contains controls which can be used in UWP applications. It has dependency on the Win2D and the CompositionExpressionToolkit libraries.
@@ -96,8 +96,8 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,728 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,727 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
