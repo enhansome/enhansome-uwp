@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6855,
+            "stars": 6856,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6065,
+            "stars": 6064,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -315,11 +315,11 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-17T00:22:40Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-18T02:55:30Z",
+            "open_issues": 8,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8548,
+            "stars": 8549,
             "topics": [
               "android",
               "csharp",
@@ -356,7 +356,7 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-10-17T16:51:03Z",
+            "last_commit": "2026-10-18T03:11:46Z",
             "open_issues": 190,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
@@ -432,8 +432,8 @@
             "id": 9501756,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T10:24:28Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-18T14:18:50Z",
+            "open_issues": 3,
             "owner": "Catel",
             "repo": "Catel",
             "stars": 907,
@@ -588,7 +588,7 @@
             "open_issues": 39,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3694,
+            "stars": 3697,
             "topics": [
               "fluent",
               "fluent-design",
@@ -624,7 +624,7 @@
             "open_issues": 64,
             "owner": "microsoft",
             "repo": "XamlBehaviors",
-            "stars": 792,
+            "stars": 793,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:55:47.520Z",
+    "last_updated": "2026-10-18T17:11:09.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
