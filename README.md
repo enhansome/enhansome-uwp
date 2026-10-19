@@ -1,6 +1,6 @@
 # awesome-uwp with stars
 
-Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,659 | 🐛 198 | 📅 2026-03-26.
+Awesome UWP resources - inspired by [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,663 | 🐛 197 | 📅 2026-03-26.
 
 Contributions are welcome - any kind of library/software/resource is accepted. The goal is the same as the other lists': build a community-driven collection of resources. Before submitting a PR please check [our guidelines](https://github.com/tomzorz/awesome-uwp/blob/master/CONTRIBUTING.md).
 
@@ -19,7 +19,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Application framework
 
-* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,856 | 🐛 10 | 🌐 C# | 📅 2026-10-16 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
+* [PRISM](https://github.com/PrismLibrary/Prism) ⭐ 6,859 | 🐛 10 | 🌐 C# | 📅 2026-10-19 - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
 ## Audio library
 
@@ -40,7 +40,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Graphics library
 
-* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,903 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
+* [Win2D](https://github.com/Microsoft/Win2D/) ⭐ 1,904 | 🐛 204 | 🌐 C++ | 📅 2026-03-16 - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration.
 * [WindowsUIDevLabs](https://github.com/Microsoft/WindowsUIDevLabs) ⚠️ Archived - Windows UI Dev Labs the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
 
 ## IoT Library
@@ -68,7 +68,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## UI Library
 
-* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,697 | 🐛 39 | 🌐 C# | 📅 2026-10-14 Demonstrates the controls available in WinUI and the Fluent Design System.
+* [Xaml Controls Gallery](https://github.com/microsoft/Xaml-Controls-Gallery) ⭐ 3,698 | 🐛 39 | 🌐 C# | 📅 2026-10-14 Demonstrates the controls available in WinUI and the Fluent Design System.
 * [Official XAML Behaviors](https://github.com/Microsoft/XamlBehaviors) ⭐ 793 | 🐛 64 | 🌐 C# | 📅 2026-10-16 - XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Windows UWP applications with minimal code. It is available for both native and managed applications.
 * [LottieUWP](https://github.com/azchohfi/LottieUWP) ⚠️ Archived - UWP port of Lottie
 * [WindowsStateTriggers](https://github.com/dotMorten/WindowsStateTriggers) ⭐ 247 | 🐛 18 | 🌐 C# | 📅 2020-07-22 - WindowsStateTriggers is a collection of custom visual state triggers, including triggers such as DeviceFamilyStateTrigger, NetworkConnectionStateTrigger, RegexStateTrigger and more.
@@ -96,8 +96,8 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,729 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,732 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
