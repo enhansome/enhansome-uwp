@@ -261,7 +261,7 @@
             "open_issues": 204,
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1904,
+            "stars": 1903,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -319,7 +319,7 @@
             "open_issues": 8,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8549,
+            "stars": 8548,
             "topics": [
               "android",
               "csharp",
@@ -360,7 +360,7 @@
             "open_issues": 190,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3919,
+            "stars": 3918,
             "topics": [
               "android",
               "c-sharp",
@@ -555,7 +555,7 @@
             "open_issues": 24,
             "owner": "Windows-XAML",
             "repo": "Template10",
-            "stars": 1398,
+            "stars": 1397,
             "topics": [
               "c-sharp",
               "uwp",
@@ -585,10 +585,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-14T15:30:36Z",
-            "open_issues": 39,
+            "open_issues": 38,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3698,
+            "stars": 3699,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:44:04.766Z",
+    "last_updated": "2026-10-20T18:24:24.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
