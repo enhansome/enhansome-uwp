@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6860,
+            "stars": 6861,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6064,
+            "stars": 6060,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -282,7 +282,7 @@
             "open_issues": 1,
             "owner": "microsoft",
             "repo": "WindowsCompositionSamples",
-            "stars": 1124,
+            "stars": 1123,
             "topics": [
               "animations",
               "composition",
@@ -319,7 +319,7 @@
             "open_issues": 9,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8549,
+            "stars": 8548,
             "topics": [
               "android",
               "csharp",
@@ -360,7 +360,7 @@
             "open_issues": 189,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3919,
+            "stars": 3920,
             "topics": [
               "android",
               "c-sharp",
@@ -585,10 +585,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-14T15:30:36Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3706,
+            "stars": 3710,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:11:52.625Z",
+    "last_updated": "2026-10-24T17:17:19.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
