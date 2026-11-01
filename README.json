@@ -258,10 +258,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-03-16T20:47:31Z",
-            "open_issues": 205,
+            "open_issues": 206,
             "owner": "microsoft",
             "repo": "Win2D",
-            "stars": 1902,
+            "stars": 1903,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -315,11 +315,11 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-31T14:45:51Z",
+            "last_commit": "2026-10-31T22:51:29Z",
             "open_issues": 13,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8550,
+            "stars": 8551,
             "topics": [
               "android",
               "csharp",
@@ -525,7 +525,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TemplateStudio",
-            "stars": 2811,
+            "stars": 2810,
             "topics": [
               "csharp",
               "template",
@@ -588,7 +588,7 @@
             "open_issues": 41,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3717,
+            "stars": 3718,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:23:14.734Z",
+    "last_updated": "2026-11-01T18:48:11.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
