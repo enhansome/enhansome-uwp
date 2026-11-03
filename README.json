@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6868,
+            "stars": 6869,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -78,7 +78,7 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T19:49:17Z",
+            "last_commit": "2026-11-03T07:04:56Z",
             "open_issues": 12,
             "owner": "reactiveui",
             "repo": "Akavache",
@@ -315,11 +315,11 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-31T22:51:29Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-03T07:01:50Z",
+            "open_issues": 14,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
-            "stars": 8553,
+            "stars": 8554,
             "topics": [
               "android",
               "csharp",
@@ -356,11 +356,11 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-02T06:51:34Z",
+            "last_commit": "2026-11-03T07:21:05Z",
             "open_issues": 189,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3922,
+            "stars": 3921,
             "topics": [
               "android",
               "c-sharp",
@@ -525,7 +525,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TemplateStudio",
-            "stars": 2810,
+            "stars": 2809,
             "topics": [
               "csharp",
               "template",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:40:11.608Z",
+    "last_updated": "2026-11-03T20:27:18.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
