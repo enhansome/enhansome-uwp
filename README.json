@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6872,
+            "stars": 6874,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6056,
+            "stars": 6055,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -315,8 +315,8 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-06T08:50:36Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-09T08:58:37Z",
+            "open_issues": 15,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
             "stars": 8554,
@@ -356,8 +356,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-07T03:07:42Z",
-            "open_issues": 192,
+            "last_commit": "2026-11-09T03:09:01Z",
+            "open_issues": 193,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3920,
@@ -432,8 +432,8 @@
             "id": 9501756,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T12:14:47Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-09T12:24:50Z",
+            "open_issues": 2,
             "owner": "Catel",
             "repo": "Catel",
             "stars": 907,
@@ -584,11 +584,11 @@
             "id": 155757874,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-08T18:26:09Z",
+            "last_commit": "2026-11-08T21:30:57Z",
             "open_issues": 37,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3722,
+            "stars": 3725,
             "topics": [
               "fluent",
               "fluent-design",
@@ -624,7 +624,7 @@
             "open_issues": 64,
             "owner": "microsoft",
             "repo": "XamlBehaviors",
-            "stars": 791,
+            "stars": 792,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -645,7 +645,7 @@
             "open_issues": 14,
             "owner": "azchohfi",
             "repo": "LottieUWP",
-            "stars": 273,
+            "stars": 272,
             "topics": [
               "2d",
               "adobe",
@@ -793,7 +793,7 @@
             "open_issues": 5,
             "owner": "Herdo",
             "repo": "AdaptiveTriggerLibrary",
-            "stars": 62,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:43:37.875Z",
+    "last_updated": "2026-11-09T23:19:57.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
