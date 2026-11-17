@@ -282,7 +282,7 @@
             "open_issues": 1,
             "owner": "microsoft",
             "repo": "WindowsCompositionSamples",
-            "stars": 1124,
+            "stars": 1123,
             "topics": [
               "animations",
               "composition",
@@ -315,8 +315,8 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-16T15:44:23Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-17T11:38:51Z",
+            "open_issues": 6,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
             "stars": 8558,
@@ -356,7 +356,7 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-12T10:02:07Z",
+            "last_commit": "2026-11-17T09:26:24Z",
             "open_issues": 186,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
@@ -432,8 +432,8 @@
             "id": 9501756,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T10:24:28Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-17T09:22:11Z",
+            "open_issues": 2,
             "owner": "Catel",
             "repo": "Catel",
             "stars": 907,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:16:26.048Z",
+    "last_updated": "2026-11-17T22:07:31.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
