@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6874,
+            "stars": 6873,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -78,7 +78,7 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-23T22:57:58Z",
+            "last_commit": "2026-11-24T21:12:23Z",
             "open_issues": 7,
             "owner": "reactiveui",
             "repo": "Akavache",
@@ -356,8 +356,8 @@
             "id": 2870911,
             "language": "C#",
             "license": "MS-PL",
-            "last_commit": "2026-11-22T03:08:22Z",
-            "open_issues": 193,
+            "last_commit": "2026-11-24T03:08:06Z",
+            "open_issues": 194,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3919,
@@ -432,8 +432,8 @@
             "id": 9501756,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T10:24:01Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-24T10:28:16Z",
+            "open_issues": 2,
             "owner": "Catel",
             "repo": "Catel",
             "stars": 908,
@@ -525,7 +525,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TemplateStudio",
-            "stars": 2806,
+            "stars": 2807,
             "topics": [
               "csharp",
               "template",
@@ -588,7 +588,7 @@
             "open_issues": 42,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3739,
+            "stars": 3742,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:33:19.476Z",
+    "last_updated": "2026-11-24T23:25:41.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
