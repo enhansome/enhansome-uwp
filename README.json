@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "reactiveui",
             "repo": "Akavache",
-            "stars": 2548,
+            "stars": 2547,
             "topics": [
               "akavache",
               "c-sharp",
@@ -118,7 +118,7 @@
             "open_issues": 314,
             "owner": "CommunityToolkit",
             "repo": "WindowsCommunityToolkit",
-            "stars": 6053,
+            "stars": 6052,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -357,7 +357,7 @@
             "language": "C#",
             "license": "MS-PL",
             "last_commit": "2026-11-24T03:08:06Z",
-            "open_issues": 194,
+            "open_issues": 193,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
             "stars": 3919,
@@ -555,7 +555,7 @@
             "open_issues": 24,
             "owner": "Windows-XAML",
             "repo": "Template10",
-            "stars": 1395,
+            "stars": 1394,
             "topics": [
               "c-sharp",
               "uwp",
@@ -584,11 +584,11 @@
             "id": 155757874,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-23T15:46:28Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-25T19:57:38Z",
+            "open_issues": 41,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3742,
+            "stars": 3744,
             "topics": [
               "fluent",
               "fluent-design",
@@ -624,7 +624,7 @@
             "open_issues": 64,
             "owner": "microsoft",
             "repo": "XamlBehaviors",
-            "stars": 793,
+            "stars": 794,
             "topics": []
           },
           "first_seen": "2026-08-28T23:29:22.378Z"
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:25:41.510Z",
+    "last_updated": "2026-11-25T22:59:52.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
