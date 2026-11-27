@@ -78,8 +78,8 @@
             "id": 2896461,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-24T21:12:23Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-27T19:10:00Z",
+            "open_issues": 1,
             "owner": "reactiveui",
             "repo": "Akavache",
             "stars": 2547,
@@ -315,8 +315,8 @@
             "id": 715082,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-23T22:57:52Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-27T21:03:54Z",
+            "open_issues": 1,
             "owner": "reactiveui",
             "repo": "ReactiveUI",
             "stars": 8561,
@@ -360,7 +360,7 @@
             "open_issues": 193,
             "owner": "MvvmCross",
             "repo": "MvvmCross",
-            "stars": 3919,
+            "stars": 3920,
             "topics": [
               "android",
               "c-sharp",
@@ -588,7 +588,7 @@
             "open_issues": 40,
             "owner": "microsoft",
             "repo": "WinUI-Gallery",
-            "stars": 3745,
+            "stars": 3746,
             "topics": [
               "fluent",
               "fluent-design",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:53:29.327Z",
+    "last_updated": "2026-11-27T22:34:50.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UWP libs",
